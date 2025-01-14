@@ -35,4 +35,4 @@ This project is a machine learning model designed to predict the presence of car
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cardio-prediction.git
+   git clone https://github.com/sudarshan-raveendranath/scikit-learn-for-classification-problems.git
