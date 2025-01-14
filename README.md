@@ -36,3 +36,11 @@ This project is a machine learning model designed to predict the presence of car
 1. Clone this repository:
    ```bash
    git clone https://github.com/sudarshan-raveendranath/scikit-learn-for-classification-problems.git
+
+| ![Data Distribution](images/data_distribution_image.png) | ![Correlation Heatmap](images/correlation_heatmap_image.png) |
+|:--------------------------------------------------------:|:-----------------------------------------------------------:|
+| **Data Distribution**                                   | **Correlation Matrix Heatmap**                              |
+
+| ![Confusion Matrix](images/confusion_matrix_image.png)  | ![Performance Metrics](images/performance_metrics_image.png) |
+|:--------------------------------------------------------:|:-----------------------------------------------------------:|
+| **Confusion Matrix**                                    | **Performance Metrics**                                     |
