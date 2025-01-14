@@ -41,6 +41,6 @@ This project is a machine learning model designed to predict the presence of car
 |:--------------------------------------------------------:|:-----------------------------------------------------------:|
 | **Data Distribution**                                   | **Correlation Matrix Heatmap**                              |
 
-| ![Confusion Matrix](images/confusion_matrix.png)  | ![Performance Metrics](images/classification_report.png) |
+| ![Confusion Matrix](images/confussion_matrix.png)  | ![Performance Metrics](images/classification_report.png) |
 |:--------------------------------------------------------:|:-----------------------------------------------------------:|
 | **Confusion Matrix**                                    | **Performance Metrics**                                     |
